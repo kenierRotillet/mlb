@@ -1,1 +1,1 @@
-web: gunicorn mlbprojecg.wsgi
+web: gunicorn mlb.wsgi
