@@ -1,1 +1,1 @@
-web: gunicorn mlb.wsgi
+web: gunicorn mlbproject.wsgi --log-file -
